@@ -1,0 +1,66 @@
+canvas_id,vendor_guid,object_type,title,description,display_name,calculation_method,calculation_int,parent_guids,workflow_state,mastery_points,ratings,,,,,,,,,,,,,,,,,,,,,
+,ACTFL,group,ACTFL: Can-Do Statements,,ACTFL: Can-Do Statements,,,,active,,,,,,,,,,,,,,,,,,,,,,,
+,INTERCOM,outcome,Interpersonal Communication,,Interpersonal Communication,highest,,ACTFL,active,,11,"Distinguished:
+I can communicate reflectively on a wide range of global issues and highly abstract concepts in a culturally sophisticated manner.",10,"Superior:
+I can communicate with ease, accuracy, and flu-ency. I can participate fully and effectively in discussions on a variety of topics in formal and informal settings.  
+I can discuss at length complex issues by struc-turing arguments and developing hypotheses.",9,"Advanced High:
+I can express myself freely and spontaneous-ly, and for the most part accurately, on concrete topics and on most complex issues.  
+I can usually support my opinion and develop hypotheses on topics of particular interest or personal expertise.",8,"Advanced Mid:
+I can express myself fully not only on familiar topics but also on some concrete social, aca-demic, and professional topics. I can talk in de-tail and in an organized way about events and experiences in various time frames. I can con-fidently handle routine situations with an unex-pected complication. I can share my point of view in discussions on some complex issues.",7,"Advanced Low:
+I can participate in conversations about familiar topics that go beyond my everyday life. I can talk in an organized way and with some detail about events and experiences in various time frames. I can describe people, places, and things in an organized way and with some detail. I can handle a familiar situa-tion with an unexpected complication.",6,"Intermediate High:
+I can participate with ease and confidence in conversations on famil-iar topics. I can usually talk about events and experiences in various time frames.  I can usually describe people, places, and things. I can handle social interactions in everyday situations, sometimes even when there is an unexpected complication.",5,"Intermediate Mid:
+I can participate in con-versations on familiar topics using sentences and series of sentences. I can handle short social interactions in everyday situations by asking and answering a variety of questions. I can usually say what I want to say about myself and my everyday life.",4,"Intermediate Low: 
+I can participate in con-versations on a number of familiar topics using simple sentences. I can handle short social interactions in everyday situations by asking and answering simple questions.",3,"Novice High:
+I can communicate and exchange information about familiar topics using phrases and simple sentences, sometimes supported by memorized language. I can usually handle short social interactions in everyday situations by asking and answering simple questions.",2,"Novice Mid:
+I can communicate on very familiar topics using a variety of words and phrases that I have practiced and  memorized.",1,"Novice Low:
+I can communicate on some very familiar topics using single words and phrases that I have practiced and memorized."
+,PRESSPEAK,outcome,Presentational Speaking,,Presentational Speaking,highest,,ACTFL,active,,11,"Distinguished:
+I can deliver sophisticated and articulate presentations on a wide range of global issues and highly abstract concepts in a culturally appropriate manner, tailored to a variety of audiences.",10,"Superior:
+I can deliver detailed presentations with accuracy, clarity, and precision to a wide variety of audiences on topics and issues ranging from broad general interests to areas of specialized expertise.",9,"Advanced High:
+I can deliver detailed presentations, usually with accuracy, clarity and precision, on a variety of topics and issues related to community interests and some special fields of expertise.",8,"Advanced Mid:
+I can deliver well-organized presentations on concrete social, academic, and professional topics. I can present detailed information about events and experiences in various time frames.",7,"Advanced Low:
+I can deliver organized presentations appropriate to my audience on a variety of topics. I can present information about events and experiences in various time frames.",6,"Intermediate High:
+I can make presenta-tions in a generally organized way on school, work, and community topics, and on topics I have researched. I can make presentations on some events and experiences in various time frames.",5,"Intermediate Mid:
+I can make presentations on a wide variety of familiar topics using connected sentences.",4,"Intermediate Low:
+I can present information on most familiar topics using a series of simple sentences.",3,"Novice High:
+I can present basic information on familiar topics using language I have practiced using phrases and simple sentences.",2,"Novice Mid: 
+I can present informa-tion about myself and some other very familiar topics using a variety of words, phrases, and memorized expressions.",1,"Novice Low:
+I can present informa-tion about myself and some other very familiar topics using single words or memorized phrases."
+,PRESWRIT,outcome,Presentational Writing,,Presentational Writing,highest,,ACTFL,active,,11,"Distinguished:
+I can write about global issues from highly conceptualized and analytical perspectives. I can tailor my writing to sophisticated readers.",10,"Superior:
+I can write about complex and abstract issues ranging from topics of broad general interests to areas of specialized expertise using standard structure, lexicon, and writing protocols.",9,"Advanced High:
+I can write extensively with significant precision and detail on a variety of topics, most complex issues, and some special fields of expertise.",8,"Advanced Mid:
+I can write on a wide variety of general interest, professional, and academic topics. I can write well-organized, detailed paragraphs in various time frames.",7,"Advanced Low:
+I can write on general interest, academic, and professional topics. I can write organized paragraphs about events and experiences in various time frames.",6,"Intermediate High:
+I can write on topics related to school, work, and community in a generally organized way. I can write some simple paragraphs about events and experiences in various time frames.",5,"Intermediate Mid:
+I can write on a wide variety of familiar topics using connected sentences.",4,"Intermediate Low:
+I can write briefly about most familiar topics and present information using a series of simple sentences.",3,"Novice High:
+I can write short messages and notes on familiar topics related to everyday life.",2,"Novice Mid:
+I can write lists and memorized phrases on familiar topics.",1,"Novice Low: 
+I can copy some famil-iar words, characters, or phrases."
+,INTLIST,outcome,Interpretive Listening,,Interpretive Listening,highest,,ACTFL,active,,11,"Distinguished:
+I can understand highly abstract and specialized speech tailored to different audiences. I can understand sophisticated language, humor, and persuasive arguments embedded with cultural references and allusions.",10,"Superior:
+I can follow a wide range of academic and professional discourse on abstract and specialized topics. I can understand all standard dialects. I can sometimes infer complex meaning that requires deep understanding of the culture.",9,"Advanced High:
+I can easily follow narrative, informational, and descriptive speech. I can understand discussions on most topics that deal with special interests, unfamiliar situations, and abstract concepts. I can sometimes follow extended arguments and different points of view.",8,"Advanced Mid:
+I can understand the main idea and most supporting details on a variety of topics of personal and general interest, as well as some topics of professional interest. I can follow stories and descriptions of some length and in various time frames. I can understand information presented in most genres, even when not familiar with the topic.",7,"Advanced Low:
+I can understand the main idea and some supporting details in organized speech on a variety of topics of personal and general interest. I can follow stories and descriptions of some length and in various time frames.  
+I can understand information presented in a variety of genres on familiar topics, even when something unexpected is expressed.",6,"Intermediate High:
+I can easily understand the main idea in messages and presentations on a variety of topics related to everyday life and personal interests and studies. I can usually understand a few de-tails of what I overhear in conversations, even when something unexpected is expressed. I can sometimes follow what I hear about events and experiences in various time frames.",5,"Intermediate Mid:
+I can understand the main idea in messages and presentations on a variety of topics related to everyday life and personal interests and studies. I can understand the main idea in conversations that I overhear.",4,"Intermediate Low:
+I can understand the main idea in short, simple messages and presentations on familiar topics. I can understand the main idea of simple conversations that I overhear.
+",3,"Novice High:
+I can often understand words, phrases, and simple sentences related to everyday life. I can recognize pieces of information and sometimes understand the main topic of what is being said.",2,"Novice Mid:
+I can recognize some familiar words and phrases when I hear them spoken.",1,"Novice Low: 
+I can recognize a few memorized words and phrases when I hear them spoken."
+,INTREAD,outcome,Interpretive Reading,,Interpretive Reading,highest,,ACTFL,active,,11,"Distinguished:
+I can understand with ease and confidence highly abstract and specialized texts that are succinct or elaborate. I can follow unpredictable turns of thought.  I can manage inference from within the cultural framework.",10,"Superior:
+I can follow academic, professional, and literary texts on a wide range of both familiar and unfamiliar subjects. I can sometimes infer complex meaning that requires analysis and deep understanding of the culture.",9,"Advanced High:
+I can easily follow narrative, informational, and descriptive texts. I can understand what I read on most topics that deal with special interests, unfamiliar situations, and abstract concepts. I can sometimes understand extended arguments and different points  of view.",8,"Advanced Mid: 
+I can understand the main idea and most supporting details in texts on a variety of topics of personal and general interest, as well as some professional topics. I can follow sto-ries and descriptions of considerable length and in various time frames. I can understand texts written in a variety of genres, even when I am unfamiliar with  the topic.",7,"Advanced Low:
+I can understand the main idea and some supporting details on a variety of topics of personal and general interest. I can follow stories and descriptions of some length and in various time frames and genres.",6,"Intermediate High:
+I can easily understand the main idea of texts related to everyday life, personal interests, and studies. I can sometimes follow stories and descriptions about events and experiences in various time frames.",5,"Intermediate Mid:
+I can understand the main idea of texts related to everyday life and personal interests or studies.",4,"Intermediate Low:
+I can understand the main idea of short and simple texts when the topic is familiar.",3,"Novice High:
+I can understand familiar words, phrases, and sentences within short and simple texts related to everyday life. I can sometimes understand the main idea of what  I have read.",2,"Novice Mid:
+I can recognize some letters or characters. I can understand some learned or memorized words and phrases when I read.",1,"Novice Low:
+I can recognize a few letters or characters. I can identify a few memorized words and phrases when I read."
